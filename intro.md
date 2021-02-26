@@ -1,5 +1,5 @@
 Mở đầu
-============================
+======
 
 Machine learning là bộ môn khoa học nghiên cứu về bộ não, xây dựng lại bộ não trên máy tính để xử lý các tác vụ như bộ não của con người. Thế giới đang nghiên cứu và xây dựng bộ não này từ đơn giản đến phức tạp, từ phân loại ảnh chó mèo đến nhận diện khuôn mặt, dáng đi, xác định vị trí vật thể, vv.
 
@@ -8,3 +8,9 @@ Machine learning là bộ môn khoa học nghiên cứu về bộ não, xây d�
 Việc hệ thống kiến thức càng tốt thì ta càng dễ vận dụng, càng vận dụng thì càng nâng cao được chuyên môn của mình.
 
 Ebook này mục đích để hệ thống hóa lại kiến thức về machine learning một cách khoa học nhưng đơn giản dễ hiểu nhất.
+
+# Nội dung Ebook
+(Nháp)
+
+# Lời cảm ơn
+(nháp)

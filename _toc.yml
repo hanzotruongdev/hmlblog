@@ -2,7 +2,17 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
 - file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+  numbered: true
+
+- part: ML cơ bản
+  chapters:
+  - file: linear-regression
+
+- part: Computer vision
+  chapters:
+  - file: computer-vision
+  - file: cnn
+
+- part: NLP
+  chapters: 
+  - file: nlp
